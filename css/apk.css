@@ -1,0 +1,37 @@
+    .cont{
+        justify-content: center;
+        margin: auto;
+    }
+
+    .cont h3{
+        position: relative;
+        color: white;
+        text-align: center;
+        margin-right: 5rem;
+    }
+
+    .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 5rem;
+      text-align: center;
+      margin: 5%;
+      position: relative;
+      border-radius: 20%;
+      display: inline-block;
+    }
+    
+    .fa:hover {
+        opacity: 1;
+        text-decoration: none;
+    }
+    
+    .fa-android {
+      background: #a4c639;
+      color: white;
+    }
+
+    .fa-apple {
+        background: white;
+        color: black;
+    }
