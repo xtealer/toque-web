@@ -54,7 +54,6 @@ video {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: #cd9557;
     opacity: 0.7;
     z-index: 1;
 }
@@ -131,9 +130,8 @@ video {
 }
 
 .social-icons {
-    position: absolute;
+    position: relative;
     background-color: rgba(0, 0, 0, 1);
-    bottom: -8em;
     width: 100%;
     z-index: 2;
 }
