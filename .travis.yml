@@ -7,10 +7,10 @@ branches:
     - master
 language: generic
 before_install:
-  - git clone git@github.com:kevftka/cuarentena-panama-web.git
-  - cd cuarentena-panama-web
+  - git clone git@github.com:xtealer/novatech-deployments.git
+  - cd novatech-deployments
 install:
-  - echo "\n----\nTRAVIS BUILD ID - $TRAVIS_JOB_ID \n COMMIT HASH - $TRAVIS_COMMIT \n COMMIT MESSAGE - $TRAVIS_COMMIT_MESSAGE \n  \n----" >> DEPLOYS.md
+  - echo "\n----\n**CUARENTENA PANAMA WEB**\nTRAVIS BUILD ID - $TRAVIS_JOB_ID \n COMMIT HASH - $TRAVIS_COMMIT \n COMMIT MESSAGE - $TRAVIS_COMMIT_MESSAGE \n  \n----" >> DEPLOYS.md
 after_success:
   - git add .
   - git commit -a -m "Committed by Travis-CI build number - $TRAVIS_JOB_ID"
