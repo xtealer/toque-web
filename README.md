@@ -19,25 +19,17 @@ Cualquier dispositivo con Sistema Android, puede ser Tablet o Teléfono Móvil.
 
 ### Instalación 🔧
 
-_El proceso de Instalación es el siguiente:_
+El proceso de Instalación es el siguiente:
 
-```
-Entras a la página web de (https://cuarentenapanama.tk/)[https://cuarentenapanama.tk/]
-```
+`Entra a la página web de` [https://cuarentenapanama.tk/](https://cuarentenapanama.tk/)
 
-```
-Eliges la opción de Android y esperas hasta que se descargue el APK en tu celular
-```
+`Eliges la opción de Android y esperas hasta que se descargue el APK en tu celular`
 
-```
-Abres el archivos descargado y lo instalas! 
-```
+`Abres el archivos descargado y lo instalas!`
 
 En caso de que tengas problemas con la instalación:
 
-```
-Verifica que tengas la opción de instalar aplicaciones de orígenes desconocidos.
-```
+`Verifica que tengas la opción de instalar aplicaciones de orígenes desconocidos.`
 
 
 ## Construido con 🛠️
