@@ -73,7 +73,7 @@ video {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: #b40014;
+  background-color: rgba(255, 0, 0, 0.35);
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
@@ -188,7 +188,7 @@ video {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #b40014;
+    background-color: #fff;
   }
 }
 
