@@ -49,8 +49,6 @@ Verifica que tengas la opción de instalar aplicaciones de orígenes desconocido
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Kevin Castillo** - *Sitio Web y Trabajo Inicial* - [kevftka](https://github.com/kevftka)
 * **Kevin Castillo** - *Sitio Web y Documentación* - [edwinbits](https://github.com/edwinbits)
 * **Fulanito Detal** - *Sitio Web y App* - [xtealer](https://github.com/xtealer)
