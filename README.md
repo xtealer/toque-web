@@ -1,8 +1,8 @@
 # CUARENTENA PANAMA APP
 
-_Debido a la crisis producida por el virus Covid-19, el gobierno de la Republica de Panamá ha impuesto una Cuarentena Total,
+_Debido a la crisis producida por el virus COVID-19, el gobierno de la Republica de Panamá ha impuesto una Cuarentena Total,
 en el cual las personas unicamente puede salir en un horario establecido utilzando el último dígito de su cédula, con una
-duraácion de 2 horas, esta APP es para que las personas verifiquen el horario que tienen como salida._
+duracion de 2 horas, esta APP es para que las personas verifiquen el horario que tienen como salida._
 
 ## Comenzando 🚀
 
@@ -22,7 +22,7 @@ Cualquier dispositivo con Sistema Android, puede ser Tablet o Teléfono Móvil.
 _El proceso de Instalación es el siguiente:_
 
 ```
-Entras a la página web de https://cuarentenapanama.tk/
+Entras a la página web de (https://cuarentenapanama.tk/)[https://cuarentenapanama.tk/]
 ```
 
 ```
@@ -50,8 +50,8 @@ Verifica que tengas la opción de instalar aplicaciones de orígenes desconocido
 ## Autores ✒️
 
 * **Kevin Castillo** - *Sitio Web y Trabajo Inicial* - [kevftka](https://github.com/kevftka)
-* **Kevin Castillo** - *Sitio Web y Documentación* - [edwinbits](https://github.com/edwinbits)
-* **Fulanito Detal** - *Sitio Web y App* - [xtealer](https://github.com/xtealer)
+* **Edwin Lopez** - *Sitio Web y Documentación* - [edwinbits](https://github.com/edwinbits)
+* **Enrique Shunnar** - *Sitio Web y App* - [xtealer](https://github.com/xtealer)
 
 ## Licencia 📄
 
