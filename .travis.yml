@@ -10,8 +10,13 @@ before_install:
   - git clone git@github.com:xtealer/novatech-deployments.git
   - cd novatech-deployments
 install:
-  - echo "\n----\n**CUARENTENA PANAMA WEB**\nTRAVIS BUILD ID - $TRAVIS_JOB_ID \n COMMIT HASH - $TRAVIS_COMMIT \n COMMIT MESSAGE - $TRAVIS_COMMIT_MESSAGE \n  \n----" >> DEPLOYS.md
-after_success:
+  - echo "----" >> DEPLOYS.md
+  - echo "**CUARENTENA PANAMA WEB**" >> DEPLOY.md
+  - echo "TRAVIS BUILD ID - $TRAVIS_JOB_ID" >> DEPLOY.md
+  - echo "COMMIT HASH - $TRAVIS_COMMIT" >> DEPLOY.md
+  - echo "COMMIT MESSAGE - $TRAVIS_COMMIT_MESSAGE" >> DEPLOY.md
+  - echo "----" >> DEPLOY.md
+  after_success:
   - git add .
   - git commit -a -m "Committed by Travis-CI build number - $TRAVIS_JOB_ID"
   - git push origin master
