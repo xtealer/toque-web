@@ -54,4 +54,4 @@ Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENS
 
 * Se le invita una cerveza a Kevin Castillo🍺 y un café ☕ a Humberto por su excelente trabajo.
 * Y por supuesto, tambien darle un GIFT CARD de LOL a Edwin.
-* Gracias a todos los quenos dan tips y asesoría sobre la marcha 🤓.
+* Gracias a todos los que nos dan tips y asesoría sobre la marcha 🤓.
