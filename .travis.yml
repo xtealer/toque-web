@@ -18,5 +18,5 @@ install:
   - echo "----" >> DEPLOY.md
   after_success:
   - git add .
-  - git commit -a -m "Committed by Travis-CI - build number $TRAVIS_JOB_ID"
+  - git commit -a -m "Committed by Travis-CI, build number $TRAVIS_JOB_ID"
   - git push origin master
