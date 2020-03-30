@@ -52,6 +52,5 @@ Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENS
 ## Expresiones de Gratitud 🎁
 
 
-* Se le invita una cerveza a Kevin Castillo🍺 y un café ☕ a Humberto por su excelente trabajo.
-* Y por supuesto, tambien darle un GIFT CARD de LOL a Edwin.
+* Se le invita una cerveza a Kevin Castillo🍺, un café ☕ a Enrique y un GIFT CARD de LOL para Edwin por su excelente trabajo.
 * Gracias a todos los que nos dan tips y asesoría sobre la marcha 🤓.
