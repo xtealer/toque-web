@@ -16,16 +16,17 @@ before_install:
   - echo "Host github.com" >> ~/.ssh/config
   - echo "  IdentityFile ~/.ssh/novatech_deploy" >> ~/.ssh/config
   - echo "  LogLevel ERROR" >> ~/.ssh/config
+install:
   - git clone git@github.com:xtealer/novatech-deployments.git
   - cd novatech-deployments
-install:
   - echo "----" >> DEPLOYS.md
   - echo "**CUARENTENA PANAMA WEB**" >> DEPLOY.md
   - echo "TRAVIS BUILD ID - $TRAVIS_JOB_ID" >> DEPLOY.md
   - echo "COMMIT HASH - $TRAVIS_COMMIT" >> DEPLOY.md
   - echo "COMMIT MESSAGE - $TRAVIS_COMMIT_MESSAGE" >> DEPLOY.md
-  - echo "----" >> DEPLOY.md
-after_install:
+  - echo "----" >> DEPLOYS.md
+before_deploy:
   - git add .
   - git commit -a -m "Committed by Travis-CI, build number $TRAVIS_JOB_ID"
+after_success:
   - git push origin master
