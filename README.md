@@ -21,7 +21,7 @@ Cualquier dispositivo con Sistema Android, puede ser Tablet o Teléfono Móvil.
 
 El proceso de Instalación es el siguiente:
 
-`Entra a la página web de` [https://cuarentenapanama.tk/](https://cuarentenapanama.tk/)
+`Entra a la página web de` https://toque.cf/
 
 `Eliges la opción de Android y esperas hasta que se descargue el APK en tu celular`
 
