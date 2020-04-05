@@ -1,4 +1,4 @@
-# CUARENTENA PANAMA APP
+# ToQue
 
 _Debido a la crisis producida por el virus COVID-19, el gobierno de la Republica de Panamá ha impuesto una Cuarentena Total,
 en el cual las personas unicamente puede salir en un horario establecido utilzando el último dígito de su cédula, con una
