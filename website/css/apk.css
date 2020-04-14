@@ -4,11 +4,17 @@
         margin: auto;
     }
 
-    .cont h3{
+    .cont h5{
         position: relative;
         color: white;
         text-align: center;
         margin-right: 5rem;
+    }
+
+    .cont img{
+        position: relative;
+        text-align: center;
+        width: 10rem; height: 3rem;
     }
 
     .fa {
